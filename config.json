@@ -1,0 +1,8 @@
+{
+ "reddit": {
+   "id": "",
+   "secret": "",
+   "user_agent": "",
+   "redirect_uri": "/authd/"
+  } 
+}
